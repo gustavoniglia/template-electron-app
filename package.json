@@ -4,7 +4,7 @@
   "description": "templete para criar aplicaçoes desktop com Electrons.js",
   "main": "main.js",
   "scripts": {
-    "start": "electron"
+    "start": "electron",
     "dev": "electronmon ."
   },
   "keywords": [],
